@@ -1,0 +1,10 @@
+Total spent: 10050.00
+Valid records: 7
+Invalid records: 3
+
+By category:
+  uncategorized: 3500.00
+  transport: 2700.00
+  data: 2000.00
+  food: 1400.00
+  other: 450.00

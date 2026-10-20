@@ -1,0 +1,11 @@
+date,description,amount,category
+2026-01-05,Transport to office,1500,transport
+2026-01-05,Lunch,800,Food
+2026-01-06,Data topup,2000,DATA
+2026-01-06,Cab home,1200,transport
+2026-01-07,Notebook,450,other
+2026-01-08,Coffee, 600 ,food
+2026-01-08,Bus fare,-200,transport
+2026-01-09,Snacks,abc,food
+2026-01-10,Electricity,3500,utilities
+2026-13-45,Bad date row,500,food

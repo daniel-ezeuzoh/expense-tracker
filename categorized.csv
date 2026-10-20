@@ -1,0 +1,8 @@
+date,description,amount,category
+2026-01-05,Transport to office,1500.0,transport
+2026-01-05,Lunch,800.0,food
+2026-01-06,Data topup,2000.0,data
+2026-01-06,Cab home,1200.0,transport
+2026-01-07,Notebook,450.0,other
+2026-01-08,Coffee,600.0,food
+2026-01-10,Electricity,3500.0,uncategorized
